@@ -29,3 +29,10 @@ C:\Users\Josue\source\repos\Examen\Presentacion\obj\Debug\Presentacion.csproj.Co
 C:\Users\Josue\source\repos\Examen\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\Josue\source\repos\Examen\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\Josue\source\repos\Examen\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Josue\source\repos\Examen\Presentacion\bin\Debug\Autofac.dll
+C:\Users\Josue\source\repos\Examen\Presentacion\bin\Debug\Infraestructura.dll
+C:\Users\Josue\source\repos\Examen\Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josue\source\repos\Examen\Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Josue\source\repos\Examen\Presentacion\bin\Debug\Infraestructura.pdb
+C:\Users\Josue\source\repos\Examen\Presentacion\bin\Debug\Autofac.pdb
+C:\Users\Josue\source\repos\Examen\Presentacion\bin\Debug\Autofac.xml

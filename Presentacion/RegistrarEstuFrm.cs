@@ -16,14 +16,15 @@ namespace Presentacion
     {
         IEstudianteService estudianteService;
         public int count { get; set; }
-        public RegistrarEstuFrm()
+        public RegistrarEstuFrm(IEstudianteService estudianteService)
         {
+            this.estudianteService = estudianteService;
             InitializeComponent();
         }
 
         private void BtnRegresaralMenu_Click(object sender, EventArgs e)
         {
-            MenuFrm RMenu = new MenuFrm();
+            MenuFrm RMenu = new MenuFrm(estudianteService);
             RMenu.Show();
             this.Hide();
         }

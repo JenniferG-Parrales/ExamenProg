@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppCore.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,14 +13,16 @@ namespace Presentacion
 {
     public partial class MenuFrm : Form
     {
-        public MenuFrm()
+        private IEstudianteService estudianteService;
+        public MenuFrm(IEstudianteService estudianteService)
         {
+            this.estudianteService = estudianteService;
             InitializeComponent();
         }
 
         private void BtnRegistrarEstudiante_Click(object sender, EventArgs e)
         {
-            RegistrarEstuFrm Registrar = new RegistrarEstuFrm();
+            RegistrarEstuFrm Registrar = new RegistrarEstuFrm(estudianteService);
             Registrar.Show();
             this.Hide();
         }

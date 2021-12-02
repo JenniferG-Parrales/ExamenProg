@@ -27,10 +27,10 @@ namespace Presentacion
             builder.RegisterType<EstudianteService>().As<IEstudianteService>();
             builder.RegisterType<NotasService>().As<INotasService>();
 
-            //var container = builder.Build();
+            var container = builder.Build();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuFrm());
+            Application.Run(new MenuFrm(container.Resolve<IEstudianteService>()));
         }
     }
 }

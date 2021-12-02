@@ -29,16 +29,16 @@ namespace Presentacion
 
         private void BtnIngresarNotas_Click(object sender, EventArgs e)
         {
-            IngresarNotsFrm IngresaerNots = new IngresarNotsFrm();
-            IngresaerNots.Show();
-            this.Hide();
+            //IngresarNotsFrm IngresaerNots = new IngresarNotsFrm();
+            //IngresaerNots.Show();
+            //this.Hide();
         }
 
         private void BtnBuscarEstudiante_Click(object sender, EventArgs e)
         {
-            BuscarEstuFrm BuscarEst = new BuscarEstuFrm();
-            BuscarEst.Show();
-            this.Hide();
+            //BuscarEstuFrm BuscarEst = new BuscarEstuFrm();
+            //BuscarEst.Show();
+            //this.Hide();
         }
     }
 }

@@ -8,5 +8,6 @@ namespace Domain.Interfaces
     public interface INotas : IBase<Notas>
     {
         List<Notas> Promedios(List<Notas> e);
+        decimal CalcularNotaFinal(decimal IP, decimal IIP, decimal Sistematicos, decimal Tarea);
     }
 }

@@ -7,5 +7,6 @@ namespace AppCore.Interfaces
 {
     public interface INotasService : IBaseService<Notas>
     {
+        decimal CalcularNotaFinal(decimal IP, decimal IIP, decimal Sistematicos, decimal Tarea);
     }
 }

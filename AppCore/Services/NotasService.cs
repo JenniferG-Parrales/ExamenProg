@@ -10,6 +10,12 @@ namespace AppCore.Services
     public class NotasService : INotasService
     {
         private INotas notasModel;
+
+        public decimal CalcularNotaFinal(decimal IP, decimal IIP, decimal Sistematicos, decimal Tarea)
+        {
+            return notasModel.CalcularNotaFinal(IP, IIP, Sistematicos, Tarea);
+        }
+
         public void Create(Notas e)
         {
             notasModel.Create(e);

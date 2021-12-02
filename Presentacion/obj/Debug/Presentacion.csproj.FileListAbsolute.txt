@@ -1,0 +1,13 @@
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.BuscarEstuFrm.resources
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.IngresarNotsFrm.resources
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.MenuFrm.resources
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.RegistrarEstuFrm.resources
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\Downloads\ExamenProg-master\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Downloads\ExamenProg-master\Presentacion\bin\Debug\Presentacion.exe
+E:\Downloads\ExamenProg-master\Presentacion\bin\Debug\Presentacion.pdb
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.exe
+E:\Downloads\ExamenProg-master\Presentacion\obj\Debug\Presentacion.pdb
